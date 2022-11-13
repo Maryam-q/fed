@@ -16,13 +16,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Auteur:
-  Maryam Qadri (vervangen door jouw naam)
+  Maryam Qadri
 
   #### Je startniveau:
-  Blauwe piste (kies uit zwart, rood óf blauw)
+  Blauwe 
 
   #### Je focus:
-  Responsive (kies uit responsive óf surface plane)
+  Responsive
  
 </details>
 
