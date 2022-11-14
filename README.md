@@ -36,15 +36,15 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
-  link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
+  https://www.samsung.com/nl/
 
   #### Screenshot(s) van de eerste pagina (small screen): 
-  hier de naam van de pagina  
-  <img src="readme-images/samsung_home.png" width="375px" alt="Home-page samsung">
+  Home page  
+  <img src="readme-images/samsung_home.png" width="275px" alt="Home-page samsung">
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  hier de naam van de pagina  
-  <img src="readme-images/samsung_offer.png" width="375px" alt="Offer-page samsung">
+  Offer page 
+  <img src="readme-images/samsung_offer.png" width="275px" alt="Offer-page samsung">
  
 </details>
 
