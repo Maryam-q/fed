@@ -44,7 +44,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Screenshot(s) van de tweede pagina (small screen):
   Offer page 
-  <img src="readme-images/samsung_offer.png" width="275px" alt="Offer-page samsung">
+  <img src="readme-images/samsung_offer.png" width="375px" alt="Offer-page samsung">
  
 </details>
 
