@@ -40,11 +40,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   Home page  
-  <img src="readme-images/samsung_home.png" width="275px" alt="Home-page samsung">
+  <img src="readme-images/samsung_home.png" width="175px" alt="Home-page samsung">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   Offer page 
-  <img src="readme-images/samsung_offer.png" width="375px" alt="Offer-page samsung">
+  <img src="readme-images/samsung_offer.png" width="175px" alt="Offer-page samsung">
  
 </details>
 
