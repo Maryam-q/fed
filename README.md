@@ -52,34 +52,65 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 ## Toegankelijkheidstest 1/2 (week 1)
 
+smansung.nl getest door splinter
+
 <details>
+
   <summary>uitwerken na test in 1e werkgroep</summary>
 
   ### Bevindingen
-  Lijst met je bevindingen die in de test naar voren kwamen:
+
+  website is erg overzichtelijk en goed te gebruiken zonder beperkingen.
+
 
   #### Screenreader
-  Hier korte omschrijving (met indien nodig afbeeldingen)
 
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+  je hoort pas wat een knop doet nadat je hem hebt ingedrukt
+
+  alles wordt in een taal verteld terwijl er in zowel nederlands als engels talige teksten op de website staan
+
+  er wordt verteld in welke tab je zit maar niet er wordt vaak niet verteld waar de tap over gaat.
 
 
-  #### Muis en Toetsenbord 
-  Hier korte omschrijving (met indien nodig afbeeldingen)
+  een oplossing zou kunnen zijn om te vertellen waar de knop over gaat wanneer de gebruiker er over heen hoverd.
 
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+  alleen de h1 en welke tab aangeven bij hoveren op tap.
+
+
+
+  #### Muis en Toetsenbord
+
+  elementen worden in een logische volgorde geselecteerd en het is altijd goed zichtbaar doormiddel van een zwarte puntjes outline om de elementen die geselecteerd zijn.
+
+
+
+  wanneer je op spatie klikt mag de website net iets verder naar beneden zodat die beter op het volgende blok valt zodat je elke keer alle informatie op de juiste plek hebt.
+
 
 
   #### Motoriek (shocks, elastiekjes)
-  Hier korte omschrijving (met indien nodig afbeeldingen)
 
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+  website is even goed te gebruiken met een visuele beperking
+
+  
+
+  website is bijna niet te bedienen met sepasmes grotendeels door de kleine knoppen maar dit geld alleen voor de web versie.
 
 
-  #### Visueel (brillen, contrast, kleurenblind, dark/light). 
-  Hier korte omschrijving (met indien nodig afbeeldingen)
 
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+  website functioneerd redelijk terwijl je een ballon hoog houdt het is alleen lasitg lezen door de afleiding.
+
+
+
+  #### Visueel (brillen, contrast, kleurenblind, dark/light).
+
+  de website blijft volledig te gebruiken in elke kleur modus en er komen geen beperkingen bij door verandering van bepaalde kleuren.
+
+
+
+  geen dark mode mogelijk.
+
+
 
 </details>
 
