@@ -122,16 +122,13 @@ smansung.nl getest door splinter
   <summary>uitwerken na afloop 2e werkgroep</summary>
 
   ### de hele pagina: 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
+  <img src="readme-images/breakdownschets_helescherm.png" width="375px" alt="breakdown van de hele pagina">
 
   ### dynamisch deel (bijv menu): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
+  <img src="readme-images/breakdownschets_dynamisch.png" width="375px" alt="breakdown van een dynamisch deel">
 
-  ### wellicht nog een dynamisch deel (bijv filter): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
 
 </details>
-
 
 
 
@@ -140,15 +137,22 @@ smansung.nl getest door splinter
 
 <details>
   <summary>uitwerken voor 1e voortgang</summary>
-
+  
   ### Stand van zaken
   hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  
+  Dit ging goed:
+  <img src="readme-images/section_img_link.png" width="375px" alt="HTML code form">
+  
+  
+  Hier heb ik wat moeite mee. Ik weet niet welke ik moet gebruiken en hoe ik verder moet.
+  <img src="readme-images/footer_search_fieldset.png" width="375px" alt="HTML code form">
 
 
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
+  | Elisa          | Giannina           | Pauline      | Zakaria          |
   | ---            | ---                | ---          | ---              |
   | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
   | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
