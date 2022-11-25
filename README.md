@@ -124,7 +124,7 @@ smansung.nl getest door splinter
   ### de hele pagina: 
   <img src="readme-images/breakdownschets_helescherm.png" width="375px" alt="breakdown van de hele pagina">
 
-  ### dynamisch deel (bijv menu): 
+  ### dynamisch deel: 
   <img src="readme-images/breakdownschets_dynamisch.png" width="375px" alt="breakdown van een dynamisch deel">
 
 
