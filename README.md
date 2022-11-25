@@ -153,7 +153,7 @@ smansung.nl getest door splinter
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | Elisa          | Giannina           | Pauline      | Zakaria          |
+| Elisa          | Giannina           | Pauline      | Zakaria          |
   | ---            | ---                | ---          | ---              |
   | dit bespreken  | en dit             | verschillende kleuren in een tekst    | en dan ik dat    |
   | en dat ook nog | dit als er tijd is | links vormgeven | dit wil ik zeker |
@@ -162,12 +162,12 @@ smansung.nl getest door splinter
 
 
   ### Verslag van meeting
-  hier na afloop snel de uitkomsten van de meeting vastleggen
+  HTML zag er goed uit.
 
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+  - Gedeelte deals beter in een ul>li zetten om het later makkelijk te stijlen. 
+  - Bij details>summary de li beter een linkje geven.
+  - Voor de zoekveld is het beter om een form te gebruiken dan een fieldset omdat een fieldset in een form ziet.
+  - Ik kan bij de nav beter een img gebruiken voor de icons en het een linkje geven
 
 </details>
 
