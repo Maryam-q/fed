@@ -155,9 +155,9 @@ smansung.nl getest door splinter
 
   | Elisa          | Giannina           | Pauline      | Zakaria          |
   | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+  | dit bespreken  | en dit             | verschillende kleuren in een tekst    | en dan ik dat    |
+  | en dat ook nog | dit als er tijd is | links vormgeven | dit wil ik zeker |
+  | ...            | ...                | afbeeldingen knippen         | ...              |
 
 
 
