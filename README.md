@@ -181,7 +181,8 @@ smansung.nl getest door splinter
   <summary>uitwerken voor 2e voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  Ik heb deze week niet veel gewerkt aan mijn website heb daardoor niet veel nieuws. Ik heb een start gemaakt aan mijn css, 
+  maar moet nog wel uitzoeken welke code past want momenteel ziet het er nog niet uit zoals ik het wil hebben (nav).
 
 
   ### Agenda voor meeting

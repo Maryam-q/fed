@@ -9,6 +9,22 @@ button, summary {
 	cursor: pointer;
 }
 
+img{
+ display: block;
+ max-width: 100%;
+}
+
+
+/* font styling */
+
+/* @font-face {
+    font-family: 'asapbold';
+    src: url('fonts/asap-bold-webfont.woff2') format('woff2'),
+      url('fonts/asap-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+  
+  } */
 
 
 
@@ -20,6 +36,7 @@ button, summary {
 	/* startje */
 	--color-text:#111;
 	--color-background:#eee;
+	--list-style: none;
 }
 
 
@@ -29,6 +46,36 @@ button, summary {
 /****************/
 /* JOUW STYLING */
 /****************/
+/* spreek ik zo de img in de link aan? */
+header nav a>img {
+    display: flex;
+    flex-direction: row;
+    height: 100%;
+    width: 100%;
+    padding-left: 1em;
+    margin-right: auto;
+}
 
-/* jouw code */
+header nav {
+	padding: 1em 1em;
+    display: flex;
+
+    align-items: center;
+    margin-bottom: 1rem;
+    width: 100%;
+}
+
+header nav ul {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    gap: 0.5em;
+
+}
+
+header nav ul {
+	list-style: var(--list-style);
+}
+
+
 
