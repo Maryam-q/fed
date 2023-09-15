@@ -73,10 +73,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na afloop 3<sup>e</sup> werkgroep</summary>
 
   ### de hele pagina: 
-  <img src="readme-images/breakdownschets.png" width="375px" alt="breakdownschets van de hele pagina">
+  <img src="..//readme-images/breakdownschets.png" width="375px" alt="breakdownschets van de hele pagina">
 
   ### dynamisch deel (bijv menu): 
-  <img src="readme-images/menu.png" width="375px" alt="breakdown van een dynamisch deel, menu">
+  <img src="..//readme-images/menu.png" width="375px" alt="breakdown van een dynamisch deel, menu">
 
   ### wellicht nog een dynamisch deel (bijv filter): 
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
@@ -116,10 +116,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+  - 
+  - 
+  - 
+  - 
 
 </details>
 
