@@ -19,10 +19,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Maryam Qadri
 
   #### Je startniveau:
-  Blauwe 
+  Blauw
 
   #### Je focus:
-  Responsive
+  Surface plane
  
 </details>
 
@@ -36,15 +36,15 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
-  https://www.samsung.com/nl/
+  https://www.crunchyroll.com/
 
   #### Screenshot(s) van de eerste pagina (small screen): 
-  Home page  
-  <img src="readme-images/samsung_home.png" width="175px" alt="Home-page samsung">
+  Home 
+  <img src="readme-images/homepagina.png" width="375px" alt="home pagina, alle soorten anime zijn te zien">
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  Offer page 
-  <img src="readme-images/samsung_offer.png" width="175px" alt="Offer-page samsung">
+  Woningaanbod  
+  <img src="readme-images/tweedepagina.pgn" width="375px" alt="one piece anime, met afleveringen en reacties">
  
 </details>
 
@@ -52,65 +52,16 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 ## Toegankelijkheidstest 1/2 (week 1)
 
-smansung.nl getest door splinter
-
 <details>
-
-  <summary>uitwerken na test in 1e werkgroep</summary>
+  <summary>uitwerken na test in 2<sup>e</sup> werkgroep</summary>
 
   ### Bevindingen
-
-  website is erg overzichtelijk en goed te gebruiken zonder beperkingen.
-
-
-  #### Screenreader
-
-  je hoort pas wat een knop doet nadat je hem hebt ingedrukt
-
-  alles wordt in een taal verteld terwijl er in zowel nederlands als engels talige teksten op de website staan
-
-  er wordt verteld in welke tab je zit maar niet er wordt vaak niet verteld waar de tap over gaat.
-
-
-  een oplossing zou kunnen zijn om te vertellen waar de knop over gaat wanneer de gebruiker er over heen hoverd.
-
-  alleen de h1 en welke tab aangeven bij hoveren op tap.
-
-
-
-  #### Muis en Toetsenbord
-
-  elementen worden in een logische volgorde geselecteerd en het is altijd goed zichtbaar doormiddel van een zwarte puntjes outline om de elementen die geselecteerd zijn.
-
-
-
-  wanneer je op spatie klikt mag de website net iets verder naar beneden zodat die beter op het volgende blok valt zodat je elke keer alle informatie op de juiste plek hebt.
-
-
-
-  #### Motoriek (shocks, elastiekjes)
-
-  website is even goed te gebruiken met een visuele beperking
-
-  
-
-  website is bijna niet te bedienen met sepasmes grotendeels door de kleine knoppen maar dit geld alleen voor de web versie.
-
-
-
-  website functioneerd redelijk terwijl je een ballon hoog houdt het is alleen lasitg lezen door de afleiding.
-
-
-
-  #### Visueel (brillen, contrast, kleurenblind, dark/light).
-
-  de website blijft volledig te gebruiken in elke kleur modus en er komen geen beperkingen bij door verandering van bepaalde kleuren.
-
-
-
-  geen dark mode mogelijk.
-
-
+  Lijst met je bevindingen die in de test naar voren kwamen:
+  screenreader:
+  - moeilijk om een video af te spelen, en als die eenmaal bezig is het moeilijk om met de controls de video te pauzeren of door te spoelen.
+  - op de home pagina wordt alles voorgelezen tot op de detail ook wat je te zien krijgt als je met een muis zou hoveren. ook wordt er verteld wat voor soort code ervoor is gebruikt bijv. een heading, image, link of button.
+  - het duurt wel lang om door alle items heen te gaan (fijn als je een kort versie hebt of kan skippen)
+  - bij light mode blijft de website dark, er is ook geen optie om het te veranderen.
 
 </details>
 
@@ -119,14 +70,16 @@ smansung.nl getest door splinter
 ## Breakdownschets (week 1)
 
 <details>
-  <summary>uitwerken na afloop 2e werkgroep</summary>
+  <summary>uitwerken na afloop 3<sup>e</sup> werkgroep</summary>
 
   ### de hele pagina: 
-  <img src="readme-images/breakdownschets_helescherm.png" width="375px" alt="breakdown van de hele pagina">
+  <img src="readme-images/breakdownschetshome.png" width="375px" alt="breakdown van de hele pagina">
 
-  ### dynamisch deel: 
-  <img src="readme-images/breakdownschets_dynamisch.png" width="375px" alt="breakdown van een dynamisch deel">
+  ### dynamisch deel (bijv menu): 
+  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
 
+  ### wellicht nog een dynamisch deel (bijv filter): 
+  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
 
 </details>
 
@@ -137,37 +90,36 @@ smansung.nl getest door splinter
 ## Voortgang 1 (week 2)
 
 <details>
-  <summary>uitwerken voor 1e voortgang</summary>
-  
+  <summary>uitwerken voor 1<sup>e</sup> voortgang</summary>
+
   ### Stand van zaken
   hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
-  
-  Dit ging goed:
-  <img src="readme-images/section_img_link.png" width="375px" alt="HTML code form">
-  
-  
-  Hier heb ik wat moeite mee. Ik weet niet welke ik moet gebruiken en hoe ik verder moet.
-  <img src="readme-images/footer_search_fieldset.png" width="375px" alt="HTML code form">
+    Breakdownschets ging redelijk soepel. 
+    vraag: kan een img in een button? (ik heb het over de bookmark icon, dat is een button met een svg) zie afbeelding..
+  <img src="readme-images/bookmarkimg.png" width="375px" alt="bookmark button">
+  [- als dat wordt aangeklikt zie je de bookmarked versie, verander ik die in javascript??
+  - kan ik een svg in css een andere kleur geven?
+  - kan een img in een link?
+  ]
 
 
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-| Elisa          | Giannina           | Pauline      | Zakaria          |
+  | student 1      | student 2          | student 3    | student 4        |
   | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | verschillende kleuren in een tekst    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | links vormgeven | dit wil ik zeker |
-  | ...            | ...                | afbeeldingen knippen         | ...              |
-
+  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
+  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
+  | ...            | ...                | ...          | ...              |
 
 
   ### Verslag van meeting
-  HTML zag er goed uit.
+  hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - Gedeelte deals beter in een ul>li zetten om het later makkelijk te stijlen. 
-  - Bij details>summary de li beter een linkje geven.
-  - Voor de zoekveld is het beter om een form te gebruiken dan een fieldset omdat een fieldset in een form ziet.
-  - Ik kan bij de nav beter een img gebruiken voor de icons en het een linkje geven
+  - punt 1
+  - punt 2
+  - nog een punt
+  - ...
 
 </details>
 
@@ -178,11 +130,10 @@ smansung.nl getest door splinter
 ## Voortgang 2 (week 3)
 
 <details>
-  <summary>uitwerken voor 2e voortgang</summary>
+  <summary>uitwerken voor 2<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  Ik heb deze week niet veel gewerkt aan mijn website heb daardoor niet veel nieuws. Ik heb een start gemaakt aan mijn css, 
-  maar moet nog wel uitzoeken welke code past want momenteel ziet het er nog niet uit zoals ik het wil hebben (nav).
+  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
 
 
   ### Agenda voor meeting
@@ -212,33 +163,10 @@ smansung.nl getest door splinter
 ## Toegankelijkheidstest 2/2 (week 4)
 
 <details>
-  <summary>uitwerken na test in 8e werkgroep</summary>
+  <summary>uitwerken na test in 9<sup>e</sup> werkgroep</summary>
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen (geef ook aan wat er verbeterd is):
-
-  #### Screenreader
-  Hier korte omschrijving (met indien nodig afbeeldingen)
-
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
-
-
-  #### Muis en Toetsenbord 
-  Hier korte omschrijving (met indien nodig afbeeldingen)
-
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
-
-
-  #### Motoriek (shocks, elastiekjes)
-  Hier korte omschrijving (met indien nodig afbeeldingen)
-
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
-
-
-  #### Visueel (brillen, contrast, kleurenblind, dark/light). 
-  Hier korte omschrijving (met indien nodig afbeeldingen)
-
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
 
 </details>
 
@@ -249,7 +177,7 @@ smansung.nl getest door splinter
 ## Voortgang 3 (week 4)
 
 <details>
-  <summary>uitwerken voor 3e voortgang</summary>
+  <summary>uitwerken voor 3<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
   hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
@@ -309,7 +237,9 @@ smansung.nl getest door splinter
 <details open>
   <summary>continu bijhouden terwijl je werkt</summary>
 
-  Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
+  Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg). 
+  Nb. ChatGpT en andere AI horen er ook bij.
+  Nb. Vermeld de bronnen ook in je code.
 
   1. bron 1
   2. bron 2

@@ -5,26 +5,7 @@
   box-sizing:border-box;  
 }
 
-button, summary {
-	cursor: pointer;
-}
 
-img{
- display: block;
- max-width: 100%;
-}
-
-
-/* font styling */
-
-/* @font-face {
-    font-family: 'asapbold';
-    src: url('fonts/asap-bold-webfont.woff2') format('woff2'),
-      url('fonts/asap-bold-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-  
-  } */
 
 
 
@@ -36,7 +17,47 @@ img{
 	/* startje */
 	--color-text:#111;
 	--color-background:#eee;
-	--list-style: none;
+}
+
+
+
+
+/***************/
+/*FONT STYLING */
+/***************/
+@font-face {
+    font-family: 'Lato';
+    src: url('../font/Lato-Light.otf');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Lato';
+    src: url('../font/Lato-Regular.otf');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Lato';
+    src: url('../font/Lato-Bold.otf');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Lato';
+    src: url('../font/Lato-Italic.otf');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Lato';
+    src: url('../font/Lato-Hairline.otf');
+    font-weight: 100;
+    font-style: normal;
 }
 
 
@@ -46,36 +67,40 @@ img{
 /****************/
 /* JOUW STYLING */
 /****************/
-/* spreek ik zo de img in de link aan? */
-header nav a>img {
-    display: flex;
-    flex-direction: row;
-    height: 100%;
-    width: 100%;
-    padding-left: 1em;
-    margin-right: auto;
+
+/* jouw code */
+
+body {
+	font-family: 'lato-regular';
 }
 
-header nav {
-	padding: 1em 1em;
-    display: flex;
-
-    align-items: center;
-    margin-bottom: 1rem;
-    width: 100%;
+img {
+	width: 8em;
 }
 
-header nav ul {
+/***************/
+/* STYLING NAV */
+/***************/
+
+header {
     display: flex;
     align-items: center;
-    flex-direction: row;
-    gap: 0.5em;
+    justify-content: space-between;
+	background-color: #23252b;
+  }
+  
+  header nav ul {
+    list-style-type: none;
+    display: flex;
 
-}
-
-header nav ul {
-	list-style: var(--list-style);
-}
-
-
-
+  }
+  
+  header nav ul li {
+    margin-right: .75em;
+	
+  }
+  
+  header nav ul li img {
+    width: 1.5em;
+  }
+  
