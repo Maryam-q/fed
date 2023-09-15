@@ -44,7 +44,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Screenshot(s) van de tweede pagina (small screen):
   One Piece  
-  <img src="readme-images/tweedepagina.pgn" width="375px" alt="one piece anime, met afleveringen en reacties">
+  <img src="readme-images/tweedepagina.png" width="375px" alt="one piece anime, met afleveringen en reacties">
  
 </details>
 
