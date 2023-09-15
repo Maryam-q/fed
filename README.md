@@ -43,7 +43,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <img src="readme-images/homepagina.png" width="375px" alt="home pagina, alle soorten anime zijn te zien">
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  Woningaanbod  
+  One Piece  
   <img src="readme-images/tweedepagina.pgn" width="375px" alt="one piece anime, met afleveringen en reacties">
  
 </details>
@@ -73,10 +73,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na afloop 3<sup>e</sup> werkgroep</summary>
 
   ### de hele pagina: 
-  <img src="readme-images/breakdownschetshome.png" width="375px" alt="breakdown van de hele pagina">
+  <img src="readme-images/breakdownschets.png" width="375px" alt="breakdown van de hele pagina">
 
   ### dynamisch deel (bijv menu): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
+  <img src="readme-images/menu.png" width="375px" alt="breakdown van een dynamisch deel, menu">
 
   ### wellicht nog een dynamisch deel (bijv filter): 
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
